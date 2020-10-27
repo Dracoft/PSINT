@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo Divicion_entre_si
 	Definir  div1 como Real
 	Escribir "Se requiere un programa que capture 3 numero digitados por el usuario y los divida entre si sin importar el orden"
 	Escribir "Porfavor digite el primero numero"
